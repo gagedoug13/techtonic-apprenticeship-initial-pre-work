@@ -16,3 +16,9 @@ from here. One thing to remember is that HTML5 has a few cool built in propertie
 ### Introduction to CSS FlexBox Challenges
 **Say Hello to CSS FlexBox Challenges**
 - Ahhh FlexBox. I honestly love FlexBox. The challenges in this course were pretty straight forward and kind of give you the answer at some points. I recommend FlexBox Froggie. That game was the first place I started learning FlexBox and it's pretty useful. My biggest takeaway from this course was that FlexBox is really nice and I love working with it. I'm curious about what the grid challenges will be like.
+
+
+
+### Introduction to CSS Grid Challenges
+**Say Hello to CSS Grid Challenges**
+- I feel like the grid challenges were a little more challenging than the FlexBox challenges. I enjoy both and I can understand when it would be necessary to use one over the other. I typically think FlexBox makes more sense but I don't mind grid. Interesting lesson.
