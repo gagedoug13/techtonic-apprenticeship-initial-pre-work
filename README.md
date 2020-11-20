@@ -11,3 +11,8 @@ from here. One thing to remember is that HTML5 has a few cool built in propertie
 ### Introduction to Basic CSS
 **Say Hello to Basic CSS**
 -  This section was a little more challenging but never too daunting. Something that I learned about CSS through this course that i thought was interesing is the !important CSS property that can be used to guarantee that an element would belong to a specified class when it loads into the page. That was my biggest takeaway from this section. It wasn't too bad to work through.
+
+
+### Introduction to CSS FlexBox Challenges
+**Say Hello to CSS FlexBox Challenges**
+- Ahhh FlexBox. I honestly love FlexBox. The challenges in this course were pretty straight forward and kind of give you the answer at some points. I recommend FlexBox Froggie. That game was the first place I started learning FlexBox and it's pretty useful. My biggest takeaway from this course was that FlexBox is really nice and I love working with it. I'm curious about what the grid challenges will be like.
