@@ -4,4 +4,5 @@
 
 ### Introduction to Basic HTML and HTML5
 **Say Hello to HTML Elements**
-- Your answer goes here if you struggled with this lesson 
+- I didn't struggle with this section but I think there are a couple of good takeaways that can be taken 
+from here. One thing to remember is that HTML5 has a few cool built in properties that allow you to control whether your inputs get submitted or not. Like the required property. On my last project I would check to see if the input contained any contents before allowing it to be submitted. Required is a simple shortcut to do the same thing. Also the checked property can be useful with radio buttons and check boxes.
