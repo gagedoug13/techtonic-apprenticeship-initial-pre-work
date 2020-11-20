@@ -6,3 +6,8 @@
 **Say Hello to HTML Elements**
 - I didn't struggle with this section but I think there are a couple of good takeaways that can be taken 
 from here. One thing to remember is that HTML5 has a few cool built in properties that allow you to control whether your inputs get submitted or not. Like the required property. On my last project I would check to see if the input contained any contents before allowing it to be submitted. Required is a simple shortcut to do the same thing. Also the checked property can be useful with radio buttons and check boxes.
+
+
+### Introduction to Basic CSS
+**Say Hello to Basic CSS**
+-  This section was a little more challenging but never too daunting. Something that I learned about CSS through this course that i thought was interesing is the !important CSS property that can be used to guarantee that an element would belong to a specified class when it loads into the page. That was my biggest takeaway from this section. It wasn't too bad to work through.
