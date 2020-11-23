@@ -22,3 +22,8 @@ from here. One thing to remember is that HTML5 has a few cool built in propertie
 ### Introduction to CSS Grid Challenges
 **Say Hello to CSS Grid Challenges**
 - I feel like the grid challenges were a little more challenging than the FlexBox challenges. I enjoy both and I can understand when it would be necessary to use one over the other. I typically think FlexBox makes more sense but I don't mind grid. Interesting lesson.
+
+### Introduction to JavaScript Challenges
+**Say Hello to JavaScript Challenges**
+- This lesson was a good refresher on the different built in methods used in JavaScript and the type of thinking that is required to solve certain challenges. I didn't get stuck on any lessons but I did find a few of them to be pretty challenging. This course covers quite a bit of material briefly without getting too in debth so I would've like to see them dig deeper into for loops and other parts of the course. There were a few different lessons that I had taken something good from while working on this section. I hadn't heard of the 'delete' property in JavaScript so I thought that was cool to be able to delete a key and value from an object. I can see how it'd be helpful to be able to delete some piece of data from a database using the 'delete' method.
+
