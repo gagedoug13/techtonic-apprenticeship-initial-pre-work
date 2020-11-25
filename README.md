@@ -27,3 +27,6 @@ from here. One thing to remember is that HTML5 has a few cool built in propertie
 **Say Hello to JavaScript Challenges**
 - This lesson was a good refresher on the different built in methods used in JavaScript and the type of thinking that is required to solve certain challenges. I didn't get stuck on any lessons but I did find a few of them to be pretty challenging. This course covers quite a bit of material briefly without getting too in debth so I would've like to see them dig deeper into for loops and other parts of the course. There were a few different lessons that I had taken something good from while working on this section. I hadn't heard of the 'delete' property in JavaScript so I thought that was cool to be able to delete a key and value from an object. I can see how it'd be helpful to be able to delete some piece of data from a database using the 'delete' method.
 
+### Introduction to ES6
+**Say Hello to ES6**
+- This was definitely the most challenging section in the program but also the most rewarding. ES6 offers a ton of different ways to clean up your code and provide clarity when working on a project. Implementing destructuring is an awesome way to refactor your code as well. I also learned a couple things about destructuring that I didn't know before, like how you can name variables in a nested object. I thought that was super interesting. 
