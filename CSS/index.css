@@ -1,3 +1,13 @@
 body {
-    background: black;
+    background: lightslategray;
+}
+
+.cat-pic, .music-pic {
+    width: 160px;
+}
+
+.about-container {
+    height: 90vh;
+    display: flex;
+    justify-content: space-evenly ;
 }
